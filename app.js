@@ -36,7 +36,6 @@ const generateNews = data => {
             const div = document.createElement('div')
             div.setAttribute('class', 'card-title')
             div.innerHTML = e.newsTitle
-
             newsCard.appendChild(img)
             newsCard.appendChild(div)
             newsContainer.appendChild(newsCard)
