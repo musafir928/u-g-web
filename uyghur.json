@@ -1,0 +1,11 @@
+{
+    "news": [
+        {
+            "id": 1,
+            "newsTitle": "ئىنسانىيلىق پۇلغا سېتىلماقتا",
+            "imgSrc": "/images/background-news.jpeg",
+            "imgAlt": "چېقىلغان دېرىزە، ئېچىنىشلىق خارابىلىق",
+            "newsLink": "https://rsf.org/en/news/china-58-uyghur-journalists-detained"
+        }
+    ]
+}
